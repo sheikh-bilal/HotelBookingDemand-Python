@@ -1,0 +1,21 @@
+Group Members
+BILAL AHMED	  L1F16BSCS0130
+FAYZAN WASIM	  L1F16BSCS0102
+ABDULLAH SAJJAD	  L1F16BSCS0113
+
+Project Title : Hotel booking demand
+Link: https://www.kaggle.com/jessemostipak/hotel-booking-demand
+
+
+Project Description:
+
+We are given a data set of hotels information and our objective is to check
+1. How Many Booking Were Cancelled?
+2. What is the booking ratio between Resort Hotel and City Hotel?
+3. What is the percentage of booking for each year?
+4. Which is the most busy month for hotel?
+5. From which country most guest come?
+6. How Long People Stay in the hotel?
+7. Which was the most booked accommodation type (Single, Couple, Family)?
+
+
